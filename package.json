@@ -1,0 +1,22 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browser-perf": "^1.4.1"
+  },
+  "devDependencies": {
+    "argparse": "^1.0.2",
+    "browser-perf": "^1.4.1",
+    "btoa": "^1.1.2",
+    "protractor": "^2.5.1",
+    "q": "^1.4.1",
+    "request": "^2.65.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
